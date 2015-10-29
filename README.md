@@ -18,6 +18,7 @@ Data
 Hands on Viz
 ------------
 * [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
+* Data file: https://github.com/GCDigitalFellows/officechartsviz/blob/master/train.csv
 
 |VARIABLE| DESCRIPTION|
 |--------|---------------|
@@ -43,3 +44,7 @@ With respect to the family relation variables (i.e. sibsp and parch) some relati
 * Parent:   Mother or Father of Passenger Aboard Titanic
 * Child:    Son, Daughter, Stepson, or Stepdaughter of Passenger Aboard Titanic
 Other family relatives excluded from this study include cousins, nephews/nieces, aunts/uncles, and in-laws.  Some children travelled only with a nanny, therefore parch=0 for them.  As well, some travelled with very close friends or neighbors in a village, however, the definitions do not support such relations.
+
+Task
+-----
+* Working with a partner, visualize some relationship in the data. It can be as simple or complicated as you wish. 
