@@ -45,6 +45,18 @@ With respect to the family relation variables (i.e. sibsp and parch) some relati
 * Child:    Son, Daughter, Stepson, or Stepdaughter of Passenger Aboard Titanic
 Other family relatives excluded from this study include cousins, nephews/nieces, aunts/uncles, and in-laws.  Some children travelled only with a nanny, therefore parch=0 for them.  As well, some travelled with very close friends or neighbors in a village, however, the definitions do not support such relations.
 
-Task
------
+##Task
 * Working with a partner, visualize some relationship in the data. It can be as simple or complicated as you wish. 
+
+Office 365 Excel
+----------------
+* Sign in to work, school, university using your GC account: https://portal.office.com/Home
+* click on excel
+* either stick with the titanic data set or choose one from anything listed above
+* Follow along with tutorial [insert link here when written]
+
+Google Charts
+--------------
+* start here: https://developers.google.com/chart/
+* click on *get started*
+* follow along
