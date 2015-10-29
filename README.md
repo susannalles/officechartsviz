@@ -52,6 +52,11 @@ Office 365 Excel
 ----------------
 * Sign in to work, school, university using your GC account: https://portal.office.com/Home
 * click on the data: [titanic dataset](https://cuny547-my.sharepoint.com/personal/haizenman_gradcenter_cuny_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=Ixda9qAlzsScW7LTl38ZxXFZepX011meDX1howSVDjI%3d&docid=2_18a19642e2fe34b94b0c3d59b350a0d6f)
+* save a copy for editing by:
+ * going to the right side of the page
+ * clicking on the three dots 
+ * then click on save a copy:
+ * ![copy image](https://raw.githubusercontent.com/GCDigitalFellows/officechartsviz/master/copy.png)
 * Follow along with tutorial [insert link here when written]
 
 Google Charts
