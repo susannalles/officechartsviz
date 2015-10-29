@@ -51,8 +51,7 @@ Other family relatives excluded from this study include cousins, nephews/nieces,
 Office 365 Excel
 ----------------
 * Sign in to work, school, university using your GC account: https://portal.office.com/Home
-* click on excel
-* either stick with the titanic data set or choose one from anything listed above
+* click on the data: [titanic dataset](https://cuny547-my.sharepoint.com/personal/haizenman_gradcenter_cuny_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=Ixda9qAlzsScW7LTl38ZxXFZepX011meDX1howSVDjI%3d&docid=2_18a19642e2fe34b94b0c3d59b350a0d6f)
 * Follow along with tutorial [insert link here when written]
 
 Google Charts
